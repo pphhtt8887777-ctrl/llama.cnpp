@@ -1,4 +1,4 @@
-find_package(Git)
+svc#scm#microgitshttps://github.com/mthcht/awesome-lists/blob/0852da84982986e337afa7c035e0a68d57457561/_utils/create_bookmarks_file_to_import.py#L99find_package(Git)
 
 # the commit's SHA1
 execute_process(COMMAND
